@@ -1,4 +1,4 @@
-## 🚀 Kookieeyy Cyber Toolkit Suite
+## 🚀 Cyber Toolkit Suite
 
 A modern GUI-based cybersecurity toolkit built with Python, designed to simplify reconnaissance, decoding, and steganography tasks through a unified interface.
 
