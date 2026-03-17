@@ -12,35 +12,32 @@ Instead of running commands manually in terminal, this toolkit provides a clean 
 
 - 🖥️ Centralized Dashboard
 
-Launch all tools from one place
+    - Launch all tools from one place
 
 - 🔍 Web Detection Module
 
-Identify technologies used by websites
-
-Perform basic reconnaissance
+     - Identify technologies used by websites
+     - Perform basic reconnaissance
 
 - 🔐 Decoder Tool
 
-Decode multiple encoding formats
+     - Decode multiple encoding formats
 
-Useful for CTFs and security analysis
+     - Useful for CTFs and security analysis
 
 - 🕵️ Steganography GUI
 
-Extract hidden data from images
-
-Simplified interface for steghide operations
+     - Extract hidden data from images
+     - Simplified interface for steghide operations
 
 - ⚡ Fast & Lightweight
 
-Minimal resource usage
-
-Quick startup and execution
+     - Minimal resource usage
+     - Quick startup and execution
 
 - 🧩 Modular Architecture
 
-Easily extendable with new tools
+     - Easily extendable with new tools
 
 ### 🛠️ Built With
 
