@@ -48,3 +48,14 @@ Instead of running commands manually in terminal, this toolkit provides a clean 
 - Subprocess module (tool execution)
 
 ### 📦 Project Structure
+
+```bash
+cyber-toolkit/
+│
+├── kalitool.py                 # Dashboard launcher
+├── webdetection.py        # Web reconnaissance module
+├── decoder.py             # Encoding/decoding tool
+├── steghide_gui.py        # Steganography interface
+│
+└── README.md
+```
