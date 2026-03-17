@@ -59,3 +59,59 @@ cyber-toolkit/
 │
 └── README.md
 ```
+### ⚙️ Installation
+
+## 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/cyber-toolkit.git
+cd cyber-toolkit
+```
+## 2. Install dependencies
+
+Make sure Python 3 is installed.
+
+Install required tools (Linux/Kali):
+
+```
+sudo apt update
+sudo apt install steghide nmap whatweb sqlmap dnsutils
+```
+
+### ▶️ Usage
+
+Run the dashboard:
+
+```
+python3 kalitool.py
+```
+
+Then:
+
+1. Open the GUI
+2. Click on any tool
+3. Start analyzing 🚀
+
+### 🔒 Security Note
+
+- This toolkit is intended for educational and ethical use only
+- Do not use against systems without permission
+
+### 📄 License
+
+This project is open-source and available under the MIT License.
+
+### 👤 Author
+
+Bhavya Sehgal
+
+GitHub: https://github.com/bhavyasehgall
+
+LinkedIn: https://www.linkedin.com/in/bhavyasehgall/
+
+### ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository
+- 🍴 Fork it
+- 🧠 Share feedback
